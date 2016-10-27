@@ -6,3 +6,5 @@ type lineage_profile_service, system_api_service, system_server_service, service
 
 # App lock
 type app_lock_service, system_api_service, system_server_service, service_manager_type;
+
+type pocket_service, system_api_service, system_server_service, service_manager_type;
